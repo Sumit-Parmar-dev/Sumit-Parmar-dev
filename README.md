@@ -36,8 +36,16 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Parmar-dev&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Parmar-dev&theme=radical" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Parmar-dev&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Parmar-dev&theme=highcontrast" alt="streak" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Parmar-dev&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -59,4 +67,3 @@
 ---
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
-
