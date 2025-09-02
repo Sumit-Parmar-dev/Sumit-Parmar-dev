@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Parmar</h1>
-<h3 align="center">🚀 Backend Developer | Full Stack Enthusiast | Tech Explorer</h3>
+<h3 align="center">🚀 Backend Developer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🎯 Currently working as a **Backend Developer at Creditor Academy**  
 - 💡 Passionate about building **scalable & secure web applications**  
 - 🌱 Exploring **Cloud, System Design & Advanced Backend Architectures**  
-- 💻 Strong foundation in **Node.js, Express.js, MongoDB, React.js**  
+- 💻 Strong foundation in **Node.js, Express.js, MongoDB, React.js, PostgreSQL, Redis**  
 - ⚡ Believer in **continuous learning & real-world problem solving**
 
 ---
