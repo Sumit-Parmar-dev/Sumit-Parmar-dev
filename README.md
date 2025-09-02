@@ -56,9 +56,9 @@
 ## 🌍 Let's Connect  
 
 <p align="center">
-  <a href="www.linkedin.com/in/sumit-parmar700" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/sumit-parmar700" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   <a href="iamsumitparmar110@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
